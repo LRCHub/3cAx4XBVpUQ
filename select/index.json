@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Look Closer",
+  "base_artist": "Pulse Ultra",
+  "createdAt": "2025-12-07T15:42:40.397518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Look Closer (Extended)",
+      "artist": "Morten",
+      "has_synced": false,
+      "path": "select/01_Look_Closer_(Extended)_Morten.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look Closer",
+      "artist": "Set Your Goals",
+      "has_synced": true,
+      "path": "select/02_Look_Closer_Set_Your_Goals.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Look Closer",
+      "artist": "Pulse Ultra",
+      "has_synced": true,
+      "path": "select/03_Look_Closer_Pulse_Ultra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look Closer",
+      "artist": "Bratz",
+      "has_synced": true,
+      "path": "select/04_Look_Closer_Bratz.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Look Closer (Extended Mix)",
+      "artist": "MORTEN",
+      "has_synced": false,
+      "path": "select/05_Look_Closer_(Extended_Mix)_MORTEN.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Look Closer (WeSmile Remix)",
+      "artist": "MORTEN",
+      "has_synced": false,
+      "path": "select/06_Look_Closer_(WeSmile_Remix)_MORTEN.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Look Closer (Candyland Remix)",
+      "artist": "MORTEN",
+      "has_synced": false,
+      "path": "select/07_Look_Closer_(Candyland_Remix)_MORTEN.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Look Closer (Danny Verde Remix)",
+      "artist": "MORTEN",
+      "has_synced": false,
+      "path": "select/08_Look_Closer_(Danny_Verde_Remix)_MORTEN.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Look Closer (David Tort Remix)",
+      "artist": "MORTEN",
+      "has_synced": false,
+      "path": "select/09_Look_Closer_(David_Tort_Remix)_MORTEN.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Look Closer",
+      "artist": "Pulse Ultra",
+      "has_synced": false,
+      "path": "select/pl_01_Look_Closer_Pulse_Ultra.txt"
+    }
+  ]
+}
